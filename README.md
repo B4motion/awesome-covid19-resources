@@ -25,6 +25,9 @@ COVID-19 (2019 novel Coronavirus) is a pandemic as of today. People around the w
 
 ## Fitness
 [Comunidad de Madrid exercise videos](https://www.youtube.com/channel/UC_U6aQDM-41fgt95bS_aPgQ/videos)
+[Neck exercises](https://www.youtube.com/watch?v=1qT4xNS0Ws8)
+[Back exercises](https://www.youtube.com/watch?v=RPkjCrCtCkY)
+[General exercises](https://www.youtube.com/playlist?list=PLyCLoPd4VxBvPHOpzoEk5onAEbq40g2-k)
 
 ## Music
 [Metallica concert every week on Monday](https://www.youtube.com/channel/UCbulh9WdLtEXiooRcYK7SWw)
