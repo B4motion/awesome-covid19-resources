@@ -8,7 +8,7 @@
 
 </div>
 
-# Awesome Covid-19 Resources [![Awesome](https://awesome.re/badge.svg)](https://awesome.re) <img src="https://img.shields.io/travis/soroushchehresa/awesome-coronavirus" alt="build status">
+# Awesome Covid-19 Resources [![Awesome](https://awesome.re/badge.svg)](https://awesome.re) 
 
 > Useful projects and resources for passing the quarantine during COVID-19 (2019 novel Coronavirus)
 
@@ -25,8 +25,11 @@ COVID-19 (2019 novel Coronavirus) is a pandemic as of today. People around the w
 
 ## Fitness
 [Comunidad de Madrid exercise videos](https://www.youtube.com/channel/UC_U6aQDM-41fgt95bS_aPgQ/videos)
+
 [Neck exercises](https://www.youtube.com/watch?v=1qT4xNS0Ws8)
+
 [Back exercises](https://www.youtube.com/watch?v=RPkjCrCtCkY)
+
 [General exercises](https://www.youtube.com/playlist?list=PLyCLoPd4VxBvPHOpzoEk5onAEbq40g2-k)
 
 ## Music
