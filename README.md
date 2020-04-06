@@ -19,6 +19,8 @@ COVID-19 (2019 novel Coronavirus) is a pandemic as of today. People around the w
 - [Online courses](#online-courses)
 - [Fitness](#fitness)
 - [Music](#music)
+- [Games] (#games)
+- [Culture](#culture)
   
 ## Online courses
 [Domestika](https://www.domestika.org/quedateencasa?atag=25c1c8&utm_medium=affiliates&utm_source=graffica_25c1c8#course-list)
@@ -34,3 +36,15 @@ COVID-19 (2019 novel Coronavirus) is a pandemic as of today. People around the w
 
 ## Music
 [Metallica concert every week on Monday](https://www.youtube.com/channel/UCbulh9WdLtEXiooRcYK7SWw)
+
+## Games
+[Flo Music: Live Listening](https://apps.apple.com/es/app/flo-music-live-listening/id901685527?l=en)
+[JQBX lets you play & listen to music in sync with friends or public groups](https://jqbx.fm/)
+
+## Culture
+[Laboratorio Biblioteca Nacional de España](https://bnelab.bne.es/)
+[Virtual visit best museums of the world](https://viajes.nationalgeographic.com.es/lifestyle/mejores-museos-mundo-visita-virtual_13248)
+[10 of the world’s best virtual museum and art gallery tours](https://www.theguardian.com/travel/2020/mar/23/10-of-the-worlds-best-virtual-museum-and-art-gallery-tours)
+[6 Ways to Experience Design and Art Without Leaving Your Home](https://www.surfacemag.com/articles/coronavirus-quarantine-culture-design-art-without-leaving-home/)
+[1,150 Free Movies Online: Great Classics, Indies, Noir, Westerns, etc.](http://www.openculture.com/freemoviesonline)
+[Joyful books for dark, lonely times – open thread](https://www.theguardian.com/commentisfree/2020/mar/10/coronavirus-reading-list-joyful-books-to-be-quarantined-with-open-thread)
